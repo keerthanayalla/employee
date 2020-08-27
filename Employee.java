@@ -66,7 +66,7 @@ public class Employee {
 
   }
 
-  System.out.println("Name\tYear of joining\tAddress);
+  System.out.println("Name\tYear of joining\tAddress");
 
   for(int i=0; i<3; i++) {
 
