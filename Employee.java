@@ -56,7 +56,7 @@ public class Employee {
 
   
 
-  for(int i=0; i<2; i++) {
+  for(int i=0; i<3; i++) {
 
    
 
@@ -68,7 +68,7 @@ public class Employee {
 
   System.out.println("Name\tYear of joining\tAddress);
 
-  for(int i=0; i<5; i++) {
+  for(int i=0; i<3; i++) {
 
    
 
